@@ -1,4 +1,4 @@
-# imlang
+# ImLang
 
 The Im programming language
 
